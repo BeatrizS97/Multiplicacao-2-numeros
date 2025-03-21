@@ -1,11 +1,36 @@
-# Sample Snack app
+### **Multiplicador de Números - App Expo Snack**  
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este aplicativo foi desenvolvido no **Expo Snack** como parte do aprendizado em **Desenvolvimento Mobile**. O objetivo do projeto é criar uma aplicação simples e funcional para multiplicar dois números inseridos pelo usuário, de forma interativa e intuitiva.  
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+---
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## 🚀 **Visão Geral**  
+O **Multiplicador de Números** é um aplicativo que permite ao usuário inserir dois valores e obter rapidamente o resultado da multiplicação. Ele possui uma interface amigável e responsiva, tornando a experiência de uso simples e eficiente.  
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+---
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## 🎯 **Funcionalidades**  
+* **Multiplicação de Números**: Insira dois valores e obtenha o resultado da multiplicação.  
+* **Validação de Entrada**: O app exibe um alerta caso algum dos campos esteja vazio.  
+* **Feedback Visual**: Campos de entrada com borda colorida ao ganhar foco.  
+* **Interface Responsiva**: Layout moderno e adaptável a diferentes dispositivos.  
+
+---
+
+## 🛠 **Tecnologias Usadas**  
+* **Expo Snack**: Plataforma para desenvolvimento mobile com React Native.  
+* **React Native**: Framework para construção de interfaces nativas.  
+* **JavaScript**: Linguagem utilizada para a lógica do app.  
+* **React Hooks (useState)**: Gerenciamento do estado dos inputs e do resultado.  
+
+---
+
+## 💡 **Próximos Passos**  
+* **Melhoria no Design**: Adicionar animações e aprimorar a interface.  
+* **Histórico de Cálculos**: Implementar um sistema para armazenar operações realizadas.  
+* **Modo Escuro**: Adicionar suporte ao **dark mode** para melhor acessibilidade.  
+
+---
+
+## 🎉 **Conclusão**  
+Este projeto foi uma excelente oportunidade para aprimorar habilidades em **React Native** e explorar conceitos fundamentais do desenvolvimento mobile. A simplicidade do aplicativo permite que ele seja utilizado como base para aplicações mais complexas no futuro.  
