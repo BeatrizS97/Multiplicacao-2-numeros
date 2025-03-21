@@ -1,6 +1,6 @@
 ### **Multiplicador de Números - App Expo Snack**  
 
-Este aplicativo foi desenvolvido no **Expo Snack** como parte do aprendizado em **Desenvolvimento Mobile**. O objetivo do projeto é criar uma aplicação simples e funcional para multiplicar dois números inseridos pelo usuário, de forma interativa e intuitiva.  
+Este aplicativo foi o terceiro aplicativo desenvolvido no **Expo Snack** como parte do aprendizado em **Desenvolvimento Mobile**. O objetivo do projeto é criar uma aplicação simples e funcional para multiplicar dois números inseridos pelo usuário, de forma interativa e intuitiva.  
 
 ---
 
